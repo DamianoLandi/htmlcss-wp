@@ -112,6 +112,32 @@ h4{
     height:316px;
 }
 
+.small-banner, .wide-banner{
+    width: 100%;
+    height:150px;
+}
+
+#small-banner1{
+    background-image: url(../img/img-1.jpg);
+    background-position:center;
+    background-size: cover;
+    border-radius: 7px;
+}
+
+#small-banner2{
+    background-image: url(../img/img-3.jpg);
+    background-position:center;
+    background-size: cover;
+    border-radius: 7px;
+}
+
+.wide-banner{
+    background-image: url(../img/banner-2.jpg);
+    background-position:center;
+    background-size:cover;
+    border-radius: 7px;
+}
+
 #light-blue2, #light-blue4{
     width:175px;
 }
@@ -134,7 +160,19 @@ h4{
     float:right;
 }
 
+h3{
+    font-family: montserrat;
+    font-size:10px;
+    font-weight: 100;
+    margin-top: 10px;
+}
+
+.main-text{
+    font-size: 10px;
+    font-family: montserrat;
+}
+
 #dark-purple{
     height:50px;
-    background-color: rgb(132,3,253);
 }
+
