@@ -176,3 +176,14 @@ h3{
     height:50px;
 }
 
+.footer{
+    text-align: center;
+    font-family: montserrat;
+    font-size: 10px;
+}
+
+#heart{
+    color:red;
+    font-size: 17px;
+    font-weight: 500;
+}
