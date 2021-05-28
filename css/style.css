@@ -17,7 +17,12 @@
 
 #purple{
     height:100px;
-    background-color: rgb(229,121,230);
+}
+
+#logo{
+    height:80%;
+    border-right: 1px solid lightgray;
+    padding-right: 15px;
 }
 
 #yellow{
